@@ -2,3 +2,4 @@ Jago
 Kitana
 koko 
 fluffy
+koko fluffy
